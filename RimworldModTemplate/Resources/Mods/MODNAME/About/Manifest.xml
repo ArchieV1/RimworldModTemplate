@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>ArchieV.MODNAME</identifier>
+    <version>2.1.2</version>
+
+    <dependencies>
+        <li>Harmony</li>
+    </dependencies>
+
+    <suggests>
+        <li></li>
+    </suggests>
+
+    <showCrossPromotions>true</showCrossPromotions>
+
+    <manifestUri>http://www.archiev.uk/projects/modding/Rimworld/MODNAME/Manifest.xml</manifestUri>
+    <downloadUri>http://www.archiev.uk/projects/modding/Rimworld/MODNAME/download.zip</downloadUri>
+</Manifest>
